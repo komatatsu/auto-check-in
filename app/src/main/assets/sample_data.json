@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "data": [
+    {
+      "hash": "test1",
+      "name": "テスト 太郎",
+      "number": "1",
+      "kind": "一般"
+    },
+    {
+      "hash": "test2",
+      "name": "テスト 次郎",
+      "number": "2",
+      "kind": "登壇者"
+    },
+    {
+      "hash": "test3",
+      "name": "テスト 三郎",
+      "number": "3",
+      "kind": "学割"
+    }
+  ]
+}

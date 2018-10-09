@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">チェックイン</string>
+    <string name="message_check_in">QRコードを読み込んでください</string>
+    <string name="label_capture">QRコードを読込む/SCAN BARCODE</string>
+
+    <string name="label_result_header">さんの名札は</string>
+    <string name="label_result_footer">にありますので、ご自分で名札をおとりください\nYour name tag is in the place of the number so please take it yourself</string>
+
+    <string name="ticket_not_found">一致する情報が見つかりませんでした。\n受付カウンターまで起こしください。</string>
+
+    <!-- setting -->
+    <string name="setting_shortcut">設定</string>
+    <string name="load">読込</string>
+</resources>
